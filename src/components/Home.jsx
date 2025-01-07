@@ -59,7 +59,7 @@ function Home() {
             <div className="space-y-2">
               <div className="flex justify-center">
                 <a
-                    href="https://drive.google.com/file/d/1USqw4herCDpzyv8OX3C_cx8zTNrRWIU8/view?usp=sharing"
+                    href="https://drive.google.com/file/d/18aIX0zGnH6UKs4VNTyckTl8vK81-C6ij/view?usp=sharing"
                   download
                   className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 transition duration-200 shadow-lg cursor-pointer mt-4"
                 >
