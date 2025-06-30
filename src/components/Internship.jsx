@@ -6,13 +6,13 @@ const internships = [
     role: 'Web Development Intern',
     duration: 'January 2025 – May 2025',
     description: `
-      Developed MessWala, a web-based mess management system to automate meal booking, user subscriptions, admin controls, and refund calculations.
+      - Developed MessWala, a web-based mess management system to automate meal booking, user subscriptions, admin controls, and refund calculations.
       
-      Worked on frontend technologies (HTML, CSS, JavaScript, Bootstrap) and backend (PHP, MySQL with PDO).
+      - Worked on frontend technologies (HTML, CSS, JavaScript, Bootstrap) and backend (PHP, MySQL with PDO).
       
-      Implemented features like secure user sessions, role-based access, real-time meal tracking, and refund logic for monthly members.
+      - Implemented features like secure user sessions, role-based access, real-time meal tracking, and refund logic for monthly members.
       
-      Gained practical experience in full-stack web development, modular coding, debugging, and deploying real-world solutions.
+      - Gained practical experience in full-stack web development, modular coding, debugging, and deploying real-world solutions.
     `,
   },
 ];
