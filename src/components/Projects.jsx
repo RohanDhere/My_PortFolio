@@ -22,6 +22,13 @@ const projects = [
     description: 'Web Scraping for Product Comparison is a user-friendly website designed to facilitate smart shopping decisions. By taking a product name as input, it fetches and compares prices from major online platforms like Flipkart and Amazon, providing users with a comprehensive price comparison, product details, and direct purchase links. This project aims to help users find the best deals and save time on their online shopping journeys.',
     githubLink: 'https://github.com/RohanDhere', 
   },
+  {
+    name: 'Multilingual Text Summarizer',
+    techUsed: 'React | Python | Flask | NLP | Hugging Face | Google Cloud Translate',
+    image: '/NLP-Summarizer.jpeg',
+    description: 'Multilingual Text Summarizer is an intuitive web application that helps users quickly condense long texts into clear summaries in English, Hindi, or Marathi. It uses advanced NLP transformer models (Pegasus-XSum, IndicBART-XLSum) to generate accurate summaries and offers instant translation through the Google Cloud Translate API. With its simple React interface, language detection, and PDF export, this project makes information more accessible across languages for students, educators, and researchers.',
+    githubLink: 'https://github.com/RohanDhere',
+  },
 ];
 
 function Projects() {
